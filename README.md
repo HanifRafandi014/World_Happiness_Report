@@ -1,24 +1,16 @@
 # 📔**World Happiness Report**
-Tool : Google Collab <br>
+Tool : Google Collab, Ms. Excel, Looker, SmartDraw <br>
 Programming Language : Python <br>
 Libraries : <br>
-Visualization : <br>
-Source Dataset : SMKDEV <br>
+Visualization : Looker & Notebook<br>
+Source Dataset : Kaggle <br>
 
 # 📂 STAGE 0: Business Understanding
-## Background Project :
-Karena .
-
-## Objective :
-1. Mengidentifikasi .
-2. Memprediksi .
+## Tugas :
+Analisis Regresi dan Faktor Pendorong Kebahagiaan Nasional.
 
 ## Goals :
-maneuhejrk
-
-## Method :
-Cross-Industry Standard Process for Data Mining (CRISP-DM)
-<br>
+Mengidentifikasi kontributor utama yang paling signifikan memengaruhi score kebahagiaan negara, untuk memungkinkan pemeringkatan dan rekomendasi kebijakan sosial-ekonomi yang berfokus pada peningkatan kesejahteraan warga negara.
 
 # 📂 STAGE 1: Data Understanding
 ## Data Overview :
@@ -27,10 +19,5 @@ Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
 ## Data Exploration :
 
-# 📂 STAGE 2: Data Preparation
+# 📂 STAGE 2: Business Recommendation
 
-# 📂 STAGE 3: Modelling
-
-# 📂 STAGE 4: Evaluation
-
-# 📂 STAGE 5: Deployment
